@@ -11,4 +11,3 @@ export class Negociacoes {
         return this.negociacoes;
     }
 }
- 
